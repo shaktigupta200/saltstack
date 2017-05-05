@@ -79,10 +79,17 @@ Saltstack also called as 'salt' is an open source, python-based server configura
 </p>
 <br />
 <b>Setting Up salt master</b>
+Turning on the Salt Master is easy -- just turn it on! The default configuration is suitable for the vast majority of installations. The Salt Master can be controlled by the local Linux/Unix service manager:
 <dl>
-<dt></dt>
-<dd></dd>
-<dt></dt>
-<dd></dd>
+<dt>On Systemd based platforms (newer Debian, openSUSE, Fedora):</dt>
+<dd>systemctl start salt-master</dd>
+<dt>On Upstart based systems (Ubuntu, older Fedora/RHEL):</dt>
+<dd>service salt-master start</dd>
+<dt>On SysV Init systems (Gentoo, older Debian etc.):</dt>
+<dd>/etc/init.d/salt-master start</dd>
+<dt>Alternatively, the Master can be started directly on the command-line:</dt>
+<dd>salt-master -d</dd>
+<dt>The Salt Master can also be started in the foreground in debug mode, thus greatly increasing the command output:</dt>
+<dd>salt-master -l debug</dd>
 </dl>
 
