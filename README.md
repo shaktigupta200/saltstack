@@ -65,4 +65,14 @@ Saltstack also called as 'salt' is an open source, python-based server configura
 <br/>
 <h2>Installing Salt</h2>
 <b>Bootstrap - Multi-Platform</b></br>
-<p>Salt Bootstrap is a shell script that detects the target platform and selects the best installation method.<a href='https://docs.saltstack.com/en/latest/topics/tutorials/salt_bootstrap.html#supported-operating-systems' target="_blank">(Supported Platforms)</a></p>
+<p>Salt Bootstrap is a shell script that detects the target platform and selects the best installation method.<a href='https://docs.saltstack.com/en/latest/topics/tutorials/salt_bootstrap.html#supported-operating-systems' target="_blank">(Supported Platforms)</a>
+
+<dl>
+  <dt>On the Salt master</dt>
+  <dd>$ curl -L https://bootstrap.saltstack.com -o install_salt.sh</dd>
+  <dd>sudo sh install_salt.sh -P -M</dd>
+  <dt>On the Salt minion</dt>
+  <dd>curl -L https://bootstrap.saltstack.com -o install_salt.sh</dd>
+  <dd>sudo sh install_salt.sh -P</dd>
+</dl>
+</p>
