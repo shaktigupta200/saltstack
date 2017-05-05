@@ -5,7 +5,8 @@
 <b>What is SaltStack? </b><br />
 Saltstack also called as 'salt' is an open source, python-based server configuration management tool and remote execution engine. Using the <a href='https://en.wikipedia.org/wiki/Infrastructure_as_Code'>Infrastruce as Code (IaC)</a> i.e. using machine-readable definition files file for configuration, approach of deployement and cloud management, salt competes with various server configuration tools like puppet, chef and ansible.<br />
 
-
+<b>STARTING SALT</b>
+<p>Salt functions on a master/minion topology. A master server acts as a central control bus for the clients, which are called minions. The minions connect back to the master.</p><br />
 <table class="wikitable">
 <tr>
 <th>Tool Name</th>
@@ -76,3 +77,5 @@ Saltstack also called as 'salt' is an open source, python-based server configura
   <dd>sudo sh install_salt.sh -P</dd>
 </dl>
 </p>
+<br />
+
