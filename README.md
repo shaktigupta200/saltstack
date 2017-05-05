@@ -61,4 +61,4 @@ Saltstack also called as 'salt' is an open source, python-based server configura
 </table>
 
 
-<img src=' saltstack/saltstack workflow.png' alt='salt architecture' />
+<img src='https://github.com/shaktigupta200/saltstack/blob/master/saltstack%20workflow.png' alt='salt architecture' />
