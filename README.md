@@ -71,11 +71,18 @@ Saltstack also called as 'salt' is an open source, python-based server configura
 <dl>
   <dt>On the Salt master</dt>
   <dd>$ curl -L https://bootstrap.saltstack.com -o install_salt.sh</dd>
-  <dd>sudo sh install_salt.sh -P -M</dd>
+  <dd>$ sudo sh install_salt.sh -P -M</dd>
   <dt>On the Salt minion</dt>
-  <dd>curl -L https://bootstrap.saltstack.com -o install_salt.sh</dd>
-  <dd>sudo sh install_salt.sh -P</dd>
+  <dd>$ curl -L https://bootstrap.saltstack.com -o install_salt.sh</dd>
+  <dd>$ sudo sh install_salt.sh -P</dd>
 </dl>
 </p>
 <br />
+<b>Setting Up salt master</b>
+<dl>
+<dt></dt>
+<dd></dd>
+<dt></dt>
+<dd></dd>
+</dl>
 
