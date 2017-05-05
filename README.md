@@ -15,46 +15,46 @@ Saltstack also called as 'salt' is an open source, python-based server configura
 <th>Written in</th>
 </tr>
 <tr>
-<th><a href="/wiki/Ansible_(software)" title="Ansible (software)">Ansible Tower</a></th>
+<th><a href="https://en.wikipedia.org/wiki/Ansible_(software)" title="Ansible (software)">Ansible Tower</a></th>
 <td>Ansible (RedHat)</td>
 <td>Push</td>
 <td>Declarative &amp; Imperative</td>
-<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
 </tr>
 <tr>
-<th><a href="/wiki/CFEngine" title="CFEngine">CFEngine</a></th>
+<th><a href="https://en.wikipedia.org/wiki/CFEngine" title="CFEngine">CFEngine</a></th>
 <td>CFEngine</td>
 <td>Pull</td>
 <td>Declarative</td>
 <td>-</td>
 </tr>
 <tr>
-<th><a href="/wiki/Chef_(software)" title="Chef (software)">Chef</a></th>
+<th><a href="https://en.wikipedia.org/wiki/Chef_(software)" title="Chef (software)">Chef</a></th>
 <td>Chef</td>
 <td>Pull</td>
 <td>Imperative</td>
-<td><a href="/wiki/Ruby" title="Ruby">Ruby</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Ruby" title="Ruby">Ruby</a></td>
 </tr>
 <tr>
-<th><a href="/wiki/Otter_(software)" title="Otter (software)">Otter</a></th>
+<th><a href="https://en.wikipedia.org/wiki/Otter_(software)" title="Otter (software)">Otter</a></th>
 <td>Inedo</td>
 <td>Push</td>
 <td>Declarative &amp; Imperative</td>
 <td>-</td>
 </tr>
 <tr>
-<th><a href="/wiki/Puppet_(software)" title="Puppet (software)">Puppet</a></th>
+<th><a href="https://en.wikipedia.org/wiki/Puppet_(software)" title="Puppet (software)">Puppet</a></th>
 <td>Puppet</td>
 <td>Pull</td>
 <td>Declarative</td>
-<td><a href="/wiki/Ruby" title="Ruby">Ruby</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Ruby" title="Ruby">Ruby</a></td>
 </tr>
 <tr>
-<th><a href="/wiki/SaltStack" class="mw-redirect" title="SaltStack">SaltStack</a></th>
+<th><a href="https://en.wikipedia.org/wiki/SaltStack" class="mw-redirect" title="SaltStack">SaltStack</a></th>
 <td>SaltStack</td>
 <td>Push and Pull</td>
 <td>Declarative &amp; Imperative</td>
-<td><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>
 <p><br /></p>
 </td>
 </tr>
