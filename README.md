@@ -78,7 +78,7 @@ Saltstack also called as 'salt' is an open source, python-based server configura
 </dl>
 </p>
 <br />
-<h3>Setting Up salt master</h3><br />
+<h3>Setting Up salt master</h3>
 Turning on the Salt Master is easy -- just turn it on! The default configuration is suitable for the vast majority of installations. The Salt Master can be controlled by the local Linux/Unix service manager:
 <dl>
 <dt>On Systemd based platforms (newer Debian, openSUSE, Fedora):</dt>
